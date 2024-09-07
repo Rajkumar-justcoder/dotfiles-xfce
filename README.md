@@ -1,3 +1,6 @@
+<h2 align='center'>Polybar1 theme is under update </h2>
+
+
 # Repository Overview
 =======================
 
