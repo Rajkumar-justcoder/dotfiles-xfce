@@ -1,5 +1,3 @@
-<h2 align='center'>Polybar1 theme is under update </h2>
-
 
 # Repository Overview
 =======================
@@ -17,12 +15,8 @@ This repository contains my personal Linux XFCE dotfiles, featuring a customized
 * dunst and mpd configuration files
 
 <!-- ![XFCE Screenshot](xfce-screenshot.png) -->
- <h2>
-	<details>
-		<summary><b>Screenshots</b> </summary>
-  		<img src="./screenshort/main.png" alt="Polybar 1 Screenshot">
- 	</details>
- </h2>
+
+<img src="./screenshort/main.png" alt="Polybar 1 Screenshot" align='center'>
 
 ### Polybar's
 
@@ -41,10 +35,7 @@ This repository contains my personal Linux XFCE dotfiles, featuring a customized
 ==========
 
 * **Lavanda-Dark-Compact-Tokyonight**: A dark, compact theme inspired by the Tokyo Night theme.
-<!-- * **Polybar Themes**:
-	+ **Theme 1**: [Theme 1 Description]
-	+ **Theme 2**: [Theme 2 Description]
-	+ **Theme 3**: [Theme 3 Description] -->
+
 
 # Icons
 =========
