@@ -17,10 +17,43 @@ This repository contains my personal Linux XFCE dotfiles, featuring a customized
  <h2>
 	<details>
 		<summary><b>Screenshots</b> </summary>
-  		<img src="./screenshort/polybar.png" alt="Polybar 1 Screenshot">
+  		<img src="./screenshort/main.png" alt="Polybar 1 Screenshot">
  	</details>
  </h2>
-<!-- ![Polybar 1 Screenshot](/screenshort/polybar.png) -->
+
+### Polybar's
+
+<!-- |<img src="./screenshort/main.png" alt="Polybar 1 Screenshot" align='center' >|
+|---| -->
+
+<details>
+		<summary><b>Themes</b> </summary>
+  		<img src="./screenshort/polybar1.png" alt="Polybar 1 Screenshot">
+</details>
+ 
+
+
+
+# Themes
+==========
+
+* **Lavanda-Dark-Compact-Tokyonight**: A dark, compact theme inspired by the Tokyo Night theme.
+<!-- * **Polybar Themes**:
+	+ **Theme 1**: [Theme 1 Description]
+	+ **Theme 2**: [Theme 2 Description]
+	+ **Theme 3**: [Theme 3 Description] -->
+
+# Icons
+=========
+
+* **Vortex-Dark-Icons**: A set of dark icons in tar.xz format.
+
+# Polybar Configuration
+=========================
+
+* My Polybar configuration features a minimalistic layout with a focus on simplicity and ease of use. I'll update this section soon with more details about my Polybar settings and plugins.
+
+
 
 # Dependencies
 ===============
@@ -39,24 +72,6 @@ This repository contains my personal Linux XFCE dotfiles, featuring a customized
 * Icons:
 	+ Vortex-Dark-Icons (compressed in tar.xz format)
 
-# Themes
-==========
-
-* **Lavanda-Dark-Compact-Tokyonight**: A dark, compact theme inspired by the Tokyo Night theme. (Please note: I couldn't find the original source link, please provide it if you have it)
-<!-- * **Polybar Themes**:
-	+ **Theme 1**: [Theme 1 Description]
-	+ **Theme 2**: [Theme 2 Description]
-	+ **Theme 3**: [Theme 3 Description] -->
-
-# Icons
-=========
-
-* **Vortex-Dark-Icons**: A set of dark icons in tar.xz format.
-
-# Polybar Configuration
-=========================
-
-* My Polybar configuration features a minimalistic layout with a focus on simplicity and ease of use. I'll update this section soon with more details about my Polybar settings and plugins.
 
 # Installation and Usage
 ==========================
