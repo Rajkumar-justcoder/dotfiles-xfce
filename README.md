@@ -13,6 +13,9 @@ This repository contains my personal Linux XFCE dotfiles, featuring a customized
 * ncmpcpp configuration files
 * dunst and mpd configuration files
 
+<!-- ![XFCE Screenshot](xfce-screenshot.png) -->
+![Polybar 1 Screenshot](/screenshort/polybar.png)
+
 # Dependencies
 ===============
 
@@ -34,6 +37,10 @@ This repository contains my personal Linux XFCE dotfiles, featuring a customized
 ==========
 
 * **Lavanda-Dark-Compact-Tokyonight**: A dark, compact theme inspired by the Tokyo Night theme. (Please note: I couldn't find the original source link, please provide it if you have it)
+<!-- * **Polybar Themes**:
+	+ **Theme 1**: [Theme 1 Description]
+	+ **Theme 2**: [Theme 2 Description]
+	+ **Theme 3**: [Theme 3 Description] -->
 
 # Icons
 =========
