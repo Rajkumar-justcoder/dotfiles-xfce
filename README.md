@@ -14,7 +14,13 @@ This repository contains my personal Linux XFCE dotfiles, featuring a customized
 * dunst and mpd configuration files
 
 <!-- ![XFCE Screenshot](xfce-screenshot.png) -->
-![Polybar 1 Screenshot](/screenshort/polybar.png)
+ <h2>
+	<details>
+		<summary><b>Screenshots</b> </summary>
+  		<img src="./screenshort/polybar.png" alt="Polybar 1 Screenshot">
+ 	</details>
+ </h2>
+<!-- ![Polybar 1 Screenshot](/screenshort/polybar.png) -->
 
 # Dependencies
 ===============
