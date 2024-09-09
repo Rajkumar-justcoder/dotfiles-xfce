@@ -45,7 +45,13 @@ This repository contains my personal Linux XFCE dotfiles, featuring a customized
 # Polybar Configuration
 =========================
 
-* My Polybar configuration features a minimalistic layout with a focus on simplicity and ease of use. I'll update this section soon with more details about my Polybar settings and plugins.
+* My Polybar configuration features a minimalistic layout with a focus on simplicity and ease of use. 
+
+** Fonts needed **
+```fix
+Material Icons font , Font Awesome v5 Free Font Awesome v5 Brands,Iosevka Nerd Font, JetBrainsMono,Material Design,
+
+```
 
 
 
@@ -53,9 +59,10 @@ This repository contains my personal Linux XFCE dotfiles, featuring a customized
 ===============
 
 * Fonts:
-	+ Font Awesome
-	+ Material Icons
-	+ Isokeva Fonts
+	+ Font Awesome v5 free and brand, v6 
+	+ Material Icons Fonts & design
+	+ JetBrainsMono Fonts
+	+ Iosevka Nerd Font
 * Polybar and its dependencies:
 	+ polybar
 	+ mpc
